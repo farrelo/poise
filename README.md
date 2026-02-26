@@ -4,6 +4,10 @@ A Polymarket trading terminal built with Python and shown with TUI [Textual]. Gi
 
 Note: This project are (mostly) vibe-coded using Claude.
 
+<img width="1906" height="837" alt="image" src="https://github.com/user-attachments/assets/ed0e7a5b-3670-4d84-9416-daef5655d80e" />
+<img width="1917" height="835" alt="image" src="https://github.com/user-attachments/assets/a079cf24-8237-48af-b108-42d6121482c2" />
+
+
 ## Features
 
 - **Home** — account summary, unrealized/realized P&L, open positions, category breakdown
