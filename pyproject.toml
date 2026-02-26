@@ -1,0 +1,6 @@
+[project]
+name = "poise"
+version = "0.1.0"
+
+[project.scripts]
+poise = "poise.main:main"
